@@ -1,0 +1,53 @@
+.bodyColor{
+    background-color: #B9B8BF;
+}
+.titulo{
+    color: #1E261C;
+}
+.arialColor{
+    color: #1E261C;
+}
+.container {
+    margin-top: 20px;
+}
+#priceForm {
+    max-width: 1000px; 
+    margin: auto; 
+}
+
+
+.form-row {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 1rem; /
+}
+
+.form-group {
+    flex: 1; 
+    min-width: 150px; 
+}
+
+.form-label {
+    font-size: 0.875rem; 
+}
+
+.form-control {
+    font-size: 0.875rem; 
+    padding: 0.5rem; 
+}
+
+.btn {
+    font-size: 0.875rem; 
+    padding: 0.5rem 1rem; 
+    margin-top: 1rem; 
+}
+
+
+.table {
+    font-size: 0.875rem; 
+    margin-top: 1.5rem; 
+}
+.color{
+    background-color: black;
+}
